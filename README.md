@@ -1,13 +1,13 @@
-About flexmod
-=============
+About flexmod-feedstock
+=======================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/flexmod-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/haochuanwei/flexmod
 
 Package license: MIT
 
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/flexmod-feedstock/blob/main/LICENSE.txt)
-
-Summary: a python module for other modules to allow flexible (yet not error-prone) configuration.
+Summary: A python module for other modules to allow flexible (yet not error-prone) configuration.
 
 Development: https://github.com/haochuanwei/flexmod
 
